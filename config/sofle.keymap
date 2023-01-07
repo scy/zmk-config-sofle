@@ -34,7 +34,7 @@
 &trans  &kp F1     &kp F2     &kp F3    &kp F4      &kp F5                           &kp F6     &kp F7       &kp F8     &kp F9    &kp F10   &kp F11
 &trans  &kp EXCL   &kp AT     &kp HASH  &kp DOLLAR  &kp PERCENT                      &kp CARET  &kp AMPS     &kp ASTRK  &kp LPAR  &kp RPAR  &kp F12
 &trans  &kp GRAVE  &kp TILDE  &kp PLUS  &kp EQUAL   &kp SQT                          &kp DQT    &kp LBKT     &kp RBKT   &kp BSLH  &kp PIPE  &kp DEL
-&trans  &none      &none      &none     &none       &none        &trans      &trans  &none      &kp LT       &kp GT     &kp FSLH  &none     &trans
+&trans  &none      &none      &none     &none       &none        &trans      &trans  &kp MINUS  &kp LT       &kp GT     &kp FSLH  &none     &trans
                    &trans     &trans    &trans      &trans       &kp K_LOCK  &none   &trans     &tog ADJUST  &trans     &trans
             >;
         };
